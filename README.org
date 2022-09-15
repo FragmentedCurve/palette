@@ -1,0 +1,23 @@
+#+TITLE: Palette
+#+OPTIONS: toc:nil num:nil
+
+This is a collection of colors I find myself reusing often over the
+years.
+
+* Full Palette
+
+| Name         | Code      | Sample       |
+|--------------+-----------+--------------|
+| BeOS Gray    | =#dedbde= | [[./dedbde.png]] |
+|              | =#dedede= | [[./dedede.png]] |
+|              | =#e8e8e8= | [[./e8e8e8.png]] |
+|              | =#f7f7f7= | [[./f7f7f7.png]] |
+| BeOS Blue    | =#336698= | [[./336698.png]] |
+| Code Block   | =#fffbbb= | [[./fffbbb.png]] |
+| Term Block   | =#f0f0ff= | [[./f0f0ff.png]] |
+| Charcol      | =#2e2e2e= | [[./2e2e2e.png]] |
+| Dark Gray    | =#828282= | [[./828282.png]] |
+| Gray         | =#a0a0a0= | [[./a0a0a0.png]] |
+| Gray Soft    | =#f0f0f0= | [[./f0f0f0.png]] |
+| Gray Light   | =#fafafa= | [[./fafafa.png]] |
+| Diagram Blue | =#99cdfd= | [[./99cdfd.png]] |
