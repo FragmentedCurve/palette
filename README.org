@@ -15,11 +15,14 @@ years.
 | BeOS Blue    | =#336698= | [[./336698.png]] |
 | Code Block   | =#fffbbb= | [[./fffbbb.png]] |
 | Term Block   | =#f0f0ff= | [[./f0f0ff.png]] |
-| Charcoal      | =#2e2e2e= | [[./2e2e2e.png]] |
+| Charcoal     | =#2e2e2e= | [[./2e2e2e.png]] |
 | Dark Gray    | =#828282= | [[./828282.png]] |
 | Gray         | =#a0a0a0= | [[./a0a0a0.png]] |
 | Gray Soft    | =#f0f0f0= | [[./f0f0f0.png]] |
 | Gray Light   | =#fafafa= | [[./fafafa.png]] |
 | Diagram Blue | =#99cdfd= | [[./99cdfd.png]] |
-
-
+| idrentthat   | =#ef476f= | [[./ef476f.png]] |
+| .            | =#ffd166= | [[./ffd166.png]] |
+| x            | =#06d6a0= | [[./06d6a0.png]] |
+| y            | =#118ab2= | [[./118ab2.png]] |
+| z            | =#073b4c= | [[./073b4c.png]] |
