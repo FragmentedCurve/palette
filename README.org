@@ -26,3 +26,7 @@ years.
 | x            | =#06d6a0= | [[./06d6a0.png]] |
 | y            | =#118ab2= | [[./118ab2.png]] |
 | z            | =#073b4c= | [[./073b4c.png]] |
+|              | =#e0fdcf= | [[./e0fdcf.png]] |
+|              | =#feffcd= | [[./feffcd.png]] |
+|              | =#f0f0ff= | [[./f0f0ff.png]] |
+|              | =#f0f0f0= | [[./f0f0f0.png]] |

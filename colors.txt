@@ -16,3 +16,7 @@
 #06d6a0
 #118ab2
 #073b4c
+#e0fdcf
+#feffcd
+#f0f0ff
+#f0f0f0
